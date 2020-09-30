@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Lenny Harmony](https://thumbnailer.mixcloud.com/unsafe/160x160/profile/2/b/c/a/8656-549b-433a-aa68-fe85224ef03d)
