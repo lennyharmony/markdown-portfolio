@@ -1,1 +1,4 @@
-My name is **Lenny Harmony** and I'm learning typing in *italic* and **bold**!
+# Lenny Harmony's businesses
+My name is **Lenny Harmony** and I'm learning to type in:
+1. *italic*
+2. **bold**
